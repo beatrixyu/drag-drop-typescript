@@ -1,0 +1,19 @@
+{
+  "name": "ts-project1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "tslint": "^6.1.2",
+    "typescript": "^3.9.7"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bea",
+  "license": "MIT"
+}
